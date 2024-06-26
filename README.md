@@ -45,3 +45,12 @@ then
 ```bash
 json-server --watch --port 4000 ./_data/db.json
 ```
+
+To build this app, run :
+```bash
+npm run build
+```
+Then start it through:
+```bash
+npm start
+```

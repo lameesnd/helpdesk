@@ -34,6 +34,13 @@
       "body": "blah blah blah",
       "priority": "high",
       "user_email": "lamees.naseraldean@gmail.com"
+    },
+    {
+      "id": "e4a2",
+      "title": "New Ticket",
+      "body": "test test test",
+      "priority": "medium",
+      "user_email": "lamees.naseraldean@gmail.com"
     }
   ]
 }
